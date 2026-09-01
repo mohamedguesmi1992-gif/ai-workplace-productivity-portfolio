@@ -40,6 +40,20 @@ The selected workplace scenario is a **Student / Academic Research Assistant sup
 4. AI is most useful when it supports a defined workflow instead of replacing human judgment.
 5. Sensitive or confidential information should not be entered into public AI tools or uploaded to public repositories.
 
+## Technical Documentation
+
+The technical documentation for this portfolio is organized across seven sections:
+
+- Prompt engineering using C.A.R.E. and R.C.T.O.
+- Draft → Verify → Refine → Human Sign-off writing workflow
+- Information-processing workflow
+- Goal → Mechanisms → Phases → Tasks planning method
+- Verification protocol and checklist
+- Responsible AI and information-sensitivity classification
+- Personal AI integration plan
+
+Each folder contains a dedicated Markdown file documenting the method, application, and final result.
+
 ## Responsible Use Statement
 This portfolio does not contain real confidential, private, or sensitive organizational information. All examples are fictional or anonymized. AI-generated content was reviewed by the trainee, who takes responsibility for the final work.
 
