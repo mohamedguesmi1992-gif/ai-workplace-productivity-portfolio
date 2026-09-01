@@ -69,6 +69,10 @@ The technical documentation for this portfolio is organized across seven section
 
 Each folder contains a dedicated Markdown file documenting the method, application, and final result.
 
+## Version Control Practice
+
+This repository uses GitHub commits to track project updates and documentation improvements. Changes are committed with clear, descriptive messages so that the project history remains easy to follow.
+
 ## Responsible Use Statement
 This portfolio does not contain real confidential, private, or sensitive organizational information. All examples are fictional or anonymized. AI-generated content was reviewed by the trainee, who takes responsibility for the final work.
 
