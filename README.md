@@ -42,3 +42,12 @@ The selected workplace scenario is a **Student / Academic Research Assistant sup
 
 ## Responsible Use Statement
 This portfolio does not contain real confidential, private, or sensitive organizational information. All examples are fictional or anonymized. AI-generated content was reviewed by the trainee, who takes responsibility for the final work.
+
+## Training Program
+
+This project was completed as part of the **L0-FGP — Generative AI for Workplace Productivity** training program at **SDAIA Academy**, under the supervision of **Fahad Alqahtani**.
+
+The portfolio demonstrates the practical application of generative AI for workplace productivity through prompt engineering, professional writing, information processing, planning, verification, responsible AI use, and personal AI integration.
+
+SDAIA Academy GitHub:
+https://github.com/SDAIAAcademy
