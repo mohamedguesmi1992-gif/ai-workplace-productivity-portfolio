@@ -22,11 +22,16 @@ A human makes the final decision. Important academic communication, schedules, r
 
 ## Green / Amber / Red Classification
 
-| Information Item | Classification | Reason | Required Action |
+The classification below is applied to information that appears elsewhere in this portfolio.
+
+| Portfolio Information Item | Classification | Why | Required Action |
 |---|---|---|---|
-| Fictional seminar agenda structure | Green | Non-sensitive, generic information that can safely be used for practice | May be used in prompts and GitHub examples |
-| Internal draft meeting notes containing only anonymized roles and task status | Amber | Internal working information may still require care even when direct identifiers are removed | Use only after anonymization and confirm no restricted content remains |
-| Real participant personal contact details or confidential/unpublished research data | Red | Personal or confidential information could create privacy, confidentiality, or research-integrity risk | Do not enter into public AI tools or upload to GitHub |
+| Fictional seminar format and agenda details used in the Planning Workflow | Green | Generic, non-sensitive practice information with no personal or confidential data | Safe to use in prompts and GitHub examples |
+| Anonymized meeting notes used in the Information Workflow | Amber | Internal working notes can still require care even after direct identifiers are removed | Review the notes, keep only necessary details, and confirm that no restricted information remains |
+| Professional email draft used in the Writing Workflow | Green | The example is fictional and contains no real personal or organizationally sensitive information | Safe to use after factual and tone review |
+
+### Red Boundary
+No **Red** information is included anywhere in this repository. Real participant contact details, passwords, confidential institutional records, or unpublished sensitive research data would be classified as **Red** and must not be entered into public AI tools or uploaded to GitHub.
 
 ## Final Responsible-Use Check
 - [x] Accuracy reviewed.
