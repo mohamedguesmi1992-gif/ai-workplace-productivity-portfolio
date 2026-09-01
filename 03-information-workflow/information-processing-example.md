@@ -66,6 +66,11 @@ The research team intends to hold a **60-minute student research seminar in the 
 | Review final agenda | Dr. Khalid | [Not Specified] | Medium | Open |
 | Send participant email | [Not Specified] | After room confirmation | Medium | Blocked |
 | Check projector availability | [Not Specified] | [Not Specified] | Medium | Open |
+## Information Tasks Used and Why
+- **Summarizing:** to reduce the raw meeting notes to the main decisions and key points.
+- **Extracting:** to identify action items, owners, deadlines, priorities, and unresolved questions.
+- **Restructuring:** to convert unstructured notes into a clear summary and action-item table.
+- **Prioritizing:** to identify room confirmation as the first action because other communication depends on it.
 
 ### Final Unresolved Questions
 1. Who will confirm the room, and by what date?
