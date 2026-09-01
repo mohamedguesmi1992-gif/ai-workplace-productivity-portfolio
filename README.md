@@ -78,5 +78,4 @@ This project was completed as part of the **L0-FGP — Generative AI for Workpla
 
 The portfolio demonstrates the practical application of generative AI for workplace productivity through prompt engineering, professional writing, information processing, planning, verification, responsible AI use, and personal AI integration.
 
-SDAIA Academy GitHub:
-https://github.com/SDAIAAcademy
+Official SDAIA Academy GitHub: [SDAIA Academy](https://github.com/SDAIAAcademy)
