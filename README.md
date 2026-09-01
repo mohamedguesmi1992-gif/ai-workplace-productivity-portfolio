@@ -40,6 +40,21 @@ The selected workplace scenario is a **Student / Academic Research Assistant sup
 4. AI is most useful when it supports a defined workflow instead of replacing human judgment.
 5. Sensitive or confidential information should not be entered into public AI tools or uploaded to public repositories.
 
+## How to Use This Repository
+
+This repository is a documentation-based portfolio and does not require software installation or code execution.
+
+To review the project:
+
+1. Start with this `README.md` for the project overview and selected workplace scenario.
+2. Open `01-prompt-engineering` to review reusable C.A.R.E. and R.C.T.O. prompts and the Before/After example.
+3. Open `02-writing-workflow` to review the Draft → Verify → Refine → Human Sign-off process.
+4. Open `03-information-workflow` to see how raw meeting notes are transformed into a structured decision-ready output.
+5. Open `04-planning-workflow` to review the Goal → Mechanisms → Phases → Tasks planning method.
+6. Open `05-verification` to review the verification checklist and its application.
+7. Open `06-responsible-ai` to review the six Responsible AI principles and Green / Amber / Red classification.
+8. Open `07-integration-plan` to review the trainee's practical plan for future AI use.
+
 ## Technical Documentation
 
 The technical documentation for this portfolio is organized across seven sections:
